@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CamylaGenelice
+- 👋 Hi, I’m CamylaGenelice
 - 👀 I’m interested in  desenvolvimento web
 - 🌱 I’m currently learning html, css e  javascript
 
