@@ -1,6 +1,6 @@
-- 👋 Hi, I’m CamylaGenelice
-- 👀 I’m interested in  desenvolvimento web
-- 🌱 I’m currently learning html, css e  javascript
+- 👋 Oiie, eu sou CamylaGenelice
+- 👀 Estou interessada em desenvolvimento web
+- 🌱 Estou aprendendo html, css e  javascript
 
 <div align="center">
   <a href="https://github.com/camylagenelice">
@@ -9,7 +9,7 @@
 </div>
  
  ##
- 
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
