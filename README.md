@@ -1,4 +1,4 @@
-- 👋 Oiie, eu sou CamylaGenelice
+- 👋 Oiie, eu sou Camyla 
 - 👀 Estou cursando engenharia da computação
 - 🌱 Estou aprendendo python e java
 
