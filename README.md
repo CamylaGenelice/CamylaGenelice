@@ -1,6 +1,6 @@
 - 👋 Oiie, eu sou CamylaGenelice
-- 👀 Estou interessada em desenvolvimento web
-- 🌱 Estou aprendendo html, css e  javascript
+- 👀 Estou cursando engenharia da computação
+- 🌱 Estou aprendendo python e java
 
 <div align="center">
   <a href="https://github.com/camylagenelice">
