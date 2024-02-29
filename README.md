@@ -1,6 +1,6 @@
 - 👋 Oiie, eu sou Camyla 
 - 👀 Estou cursando engenharia da computação
-- 🌱 Estou aprendendo python e java
+- 🌱 Estou aprendendo python, html, css e java
 
 <div align="center">
   <a href="https://github.com/camylagenelice">
