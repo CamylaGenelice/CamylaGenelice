@@ -1,6 +1,6 @@
 - 👋 Oiie, eu sou Camyla 
 - 👀 Estou cursando engenharia da computação
-- 🌱 Estou aprendendo javascript, java, sql, api, html, css
+- 🌱 Estou aprendendo Python, SQL, APIs Rest, FastAPI
 
 
 <div align="center">
