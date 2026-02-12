@@ -1,6 +1,6 @@
 - 👋 Oiie, eu sou Camyla 
 - 👀 Estou cursando engenharia da computação
-- 🌱 Estou aprendendo Python, SQL, APIs Rest, FastAPI
+- 🌱 Estou aprendendo Python, SQL, APIs Rest, FastAPI, Django
 
 
 <div align="center">
