@@ -1,5 +1,5 @@
 - 👋 Oiie, eu sou Camyla 
-- 👀 Estou cursando engenharia da computação 
+- 👀 Estou cursando análise e desenvolvimento de sistemas
 - 🌱 Estou aprendendo Python, SQL, APIs Rest, FastAPI, Django
 
 
